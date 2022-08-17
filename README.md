@@ -1,8 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+### This is a Blog site that will still be in development for some days, no action or styling was made as of yet but progress will be made as time goes on
 
 In the project directory, you can run:
 
